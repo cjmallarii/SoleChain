@@ -101,7 +101,16 @@ soroban contract invoke \
   -- get_owner \
   --shoe_id "NK-AJ1-2024-00841"
 ```
+## CONTRACT_ID
 
+CAR6CZ7626L5QBG4Y4JHMSO4YVPASUVVCYVTMM74CVIXQ4QL5UMB7HQG
+
+## LINK
+
+https://stellar.expert/explorer/testnet/contract/CAR6CZ7626L5QBG4Y4JHMSO4YVPASUVVCYVTMM74CVIXQ4QL5UMB7HQG
+
+## SCREENSHOT
+![alt text](image.png)
 ## License
 
 MIT
